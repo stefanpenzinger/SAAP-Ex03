@@ -1,0 +1,13 @@
+
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ËóÈµùÿÿÿÿ8”‚’¢Ä1
+€
+java:S1450"^Remove the "executorService" field and declare it as a local variable in the relevant methods.(’ şüÿÿÿÿ8•‚’¢Ä1
+L	java:S106"+Replace this use of System.out by a logger.(ÇÃéÿùÿÿÿÿ8–‚’¢Ä1
+U
+java:S1068"3Remove this unused "executorService" private field.(’ şüÿÿÿÿ8—‚’¢Ä1
+L
+java:S1144
+"/Remove this unused private "divideWork" method.(Ô¸Âù8—‚’¢Ä1
+Q
+java:S1144"/Remove this unused private "callSlaves" method.(ËóÈµùÿÿÿÿ8—‚’¢Ä1
